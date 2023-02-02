@@ -12,4 +12,4 @@ The mission of the New Albany High School robotics team is to create an award wi
 
 # Want to contact us?
 
-`nahsrobotics@napls.us`
+<a href="mailto:nahsrobotics@napls.us">nahsrobotics@napls.us</a>
