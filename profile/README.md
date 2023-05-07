@@ -10,6 +10,11 @@ The mission of the New Albany High School robotics team is to create an award wi
 - [YouTube](https://youtube.com/@DigitalEagles5667)
 - [Website](https://nahsrobotics.org)
 
+# Achievements:
+- 2015 Rookie All Star Award
+- 2019 Buckeye Chairman Award
+- 2023 Buckeye Event Winner
+
 # Want to contact us?
 
 <a href="mailto:nahsrobotics@napls.us">nahsrobotics@napls.us</a>
